@@ -142,7 +142,7 @@ def main() -> None:
         listen="0.0.0.0",
         port=port,
         url_path=token,
-        webhook_url=f"https://your-app-name.onrender.com/{token}"  # Replace with your actual Render URL
+        webhook_url=f"https://sm-testing-bot-v2.onrender.com/{token}"  # Replace with your actual Render URL
     )
 
 if __name__ == '__main__':
